@@ -1,6 +1,6 @@
 # Google Gemini Chatbot  
 
-🚀 **Live Demo**: [Google Gemini Chatbot](https://google-gemini-chatbot-plum.vercel.app/)  
+🚀 **Live Demo**: [Google Gemini Chatbot](https://devansh00007.github.io/Gemini_chatbot/)
 
 ## 📌 Overview  
 
